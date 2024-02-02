@@ -1,0 +1,9 @@
+.container{
+  max-width: 1080px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-image: url(../public/green\ sky\ bg.jpg);
+  
+  opacity: 0.95;
+}
