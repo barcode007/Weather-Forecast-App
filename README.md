@@ -5,7 +5,7 @@ Made By Akash Rawat <3
 # Getting App weather using react
 
 
-[Site is Live at](https://barcode007.github.io/Weather-Forecast-App/)
+[Check Website By CLicking me :)](https://barcode007.github.io/Weather-Forecast-App/)
 
 
 # Getting Started with Create React App
