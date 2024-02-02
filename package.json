@@ -1,5 +1,6 @@
 {
   "name": "akash-react-weather-forecast-app",
+  "homepage":"https://barcode007.github.io/Weather-Forecast-App/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
