@@ -7,8 +7,6 @@ Made By Akash Rawat ❤️❤️
 ![Screenshot 2024-02-02 231456](https://github.com/barcode007/Weather-Forecast-App/assets/85763275/ec40e6da-6c93-4038-8f16-6b13057bd2b1)
 
 
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
