@@ -3,7 +3,7 @@
 
 Made By Akash Rawat ❤️❤️
 
-# Getting App weather using react
+# fetching weather using react
 ![Screenshot 2024-02-02 231456](https://github.com/barcode007/Weather-Forecast-App/assets/85763275/ec40e6da-6c93-4038-8f16-6b13057bd2b1)
 
 
