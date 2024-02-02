@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Weather-Forecast-App/static/css/main.f0f1e4a0.css",
+    "main.js": "/Weather-Forecast-App/static/js/main.caf03a09.js",
+    "static/js/787.4bff1f0d.chunk.js": "/Weather-Forecast-App/static/js/787.4bff1f0d.chunk.js",
+    "static/media/sky.gif": "/Weather-Forecast-App/static/media/sky.12f9a9f86febffcbc146.gif",
+    "static/media/green sky bg.jpg": "/Weather-Forecast-App/static/media/green sky bg.81de5506009181800f80.jpg",
+    "static/media/blue sky weather.jpg": "/Weather-Forecast-App/static/media/blue sky weather.3222870ac642a7edfa7d.jpg",
+    "static/media/daily cards.jpg": "/Weather-Forecast-App/static/media/daily cards.e650559277b414d49df9.jpg",
+    "index.html": "/Weather-Forecast-App/index.html",
+    "main.f0f1e4a0.css.map": "/Weather-Forecast-App/static/css/main.f0f1e4a0.css.map",
+    "main.caf03a09.js.map": "/Weather-Forecast-App/static/js/main.caf03a09.js.map",
+    "787.4bff1f0d.chunk.js.map": "/Weather-Forecast-App/static/js/787.4bff1f0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f1e4a0.css",
+    "static/js/main.caf03a09.js"
+  ]
+}
