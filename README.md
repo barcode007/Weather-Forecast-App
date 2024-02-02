@@ -3,7 +3,7 @@
 Made By Akash Rawat <3
 
 # Getting App weather using react
-
+![Screenshot 2024-02-02 231456](https://github.com/barcode007/Weather-Forecast-App/assets/85763275/ec40e6da-6c93-4038-8f16-6b13057bd2b1)
 
 [Check Website By CLicking me :)](https://barcode007.github.io/Weather-Forecast-App/)
 
@@ -25,6 +25,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm test`
+
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
